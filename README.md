@@ -11,3 +11,4 @@ seg_json2txt.py 将labelme的标签转换为txt格式（语义分割）
 mask2txt.py 批量读取语义分割标签（png格式）转换为txt格式并保存  
 seg_txt_show.py 批量将txt语义分割标签显示在原图片上并保存  
 aug_seg.py 对语义分割数据做随机旋转数据增强，包含图片及mask标签  
+aug.py 使用albumentations库对目标检测进行数据增强  
