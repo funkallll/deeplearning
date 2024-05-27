@@ -7,6 +7,6 @@ rgb_bin.py 将RGB彩色图像批量转换为二值图并保存在文件夹中
 check_data.py 查看数据集标注的质量，即将标签绘在原图片上，再保存到另一个文件夹中  
 change_rgb.py 批量更改图片的RGB值，并保存在另一个文件夹中  
 summary.py 查看网络结构  
-seg_json2txt.py 将labelme的标签转换为txt格式（语义分割）
+seg_json2txt.py 将labelme的标签转换为txt格式（语义分割）  
 mask2txt.py 批量读取语义分割标签（png格式）转换为txt格式并保存  
 seg_txt_show.py 批量将txt语义分割标签显示在原图片上并保存  
