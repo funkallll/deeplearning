@@ -29,7 +29,7 @@
           <mxGeometry height="60" width="120" x="490" y="290" as="geometry" />
         </mxCell>
         <mxCell id="bISS9coJDUOpDxf1jbE6-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="OpenFAST" vertex="1">
-          <mxGeometry height="60" width="120" x="730" y="430" as="geometry" />
+          <mxGeometry height="60" width="120" x="810" y="270" as="geometry" />
         </mxCell>
         <mxCell id="bISS9coJDUOpDxf1jbE6-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="前处理" vertex="1">
           <mxGeometry height="60" width="120" x="310" y="110" as="geometry" />
@@ -47,7 +47,16 @@
           <mxGeometry height="60" width="120" x="130" y="370" as="geometry" />
         </mxCell>
         <mxCell id="bISS9coJDUOpDxf1jbE6-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="仿真求解" vertex="1">
-          <mxGeometry height="60" width="120" x="750" y="180" as="geometry" />
+          <mxGeometry height="60" width="120" x="800" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="bISS9coJDUOpDxf1jbE6-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="结构动力学" vertex="1">
+          <mxGeometry height="60" width="120" x="810" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="bISS9coJDUOpDxf1jbE6-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="空气动力学" vertex="1">
+          <mxGeometry height="60" width="120" x="810" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="bISS9coJDUOpDxf1jbE6-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="控制系统" vertex="1">
+          <mxGeometry height="60" width="120" x="810" y="540" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
