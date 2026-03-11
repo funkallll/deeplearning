@@ -5,16 +5,16 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="653wbNrtYAJ7RB5cZug3-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="湍流风生成" vertex="1">
-          <mxGeometry height="60" width="120" x="90" y="290" as="geometry" />
+          <mxGeometry height="60" width="120" x="110" y="270" as="geometry" />
         </mxCell>
         <mxCell id="bISS9coJDUOpDxf1jbE6-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="叶片内部损伤" vertex="1">
           <mxGeometry height="60" width="120" x="90" y="510" as="geometry" />
         </mxCell>
         <mxCell id="bISS9coJDUOpDxf1jbE6-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="湍流等级" vertex="1">
-          <mxGeometry height="60" width="120" x="260" y="250" as="geometry" />
+          <mxGeometry height="60" width="120" x="260" y="230" as="geometry" />
         </mxCell>
         <mxCell id="bISS9coJDUOpDxf1jbE6-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="风场分辨率" vertex="1">
-          <mxGeometry height="60" width="120" x="260" y="340" as="geometry" />
+          <mxGeometry height="60" width="120" x="260" y="300" as="geometry" />
         </mxCell>
         <mxCell id="bISS9coJDUOpDxf1jbE6-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="刚度衰减" vertex="1">
           <mxGeometry height="60" width="120" x="270" y="570" as="geometry" />
@@ -29,10 +29,10 @@
           <mxGeometry height="60" width="120" x="490" y="290" as="geometry" />
         </mxCell>
         <mxCell id="bISS9coJDUOpDxf1jbE6-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="OpenFAST" vertex="1">
-          <mxGeometry height="60" width="120" x="670" y="430" as="geometry" />
+          <mxGeometry height="60" width="120" x="730" y="430" as="geometry" />
         </mxCell>
         <mxCell id="bISS9coJDUOpDxf1jbE6-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="前处理" vertex="1">
-          <mxGeometry height="60" width="120" x="360" y="140" as="geometry" />
+          <mxGeometry height="60" width="120" x="310" y="110" as="geometry" />
         </mxCell>
         <mxCell id="bISS9coJDUOpDxf1jbE6-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="后处理" vertex="1">
           <mxGeometry height="60" width="120" x="1180" y="140" as="geometry" />
@@ -42,6 +42,12 @@
         </mxCell>
         <mxCell id="bISS9coJDUOpDxf1jbE6-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="塔顶侧向偏移" vertex="1">
           <mxGeometry height="60" width="120" x="1180" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="bISS9coJDUOpDxf1jbE6-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="叶素-动量理论" vertex="1">
+          <mxGeometry height="60" width="120" x="130" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="bISS9coJDUOpDxf1jbE6-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="仿真求解" vertex="1">
+          <mxGeometry height="60" width="120" x="750" y="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
