@@ -22,9 +22,6 @@
         <mxCell id="bISS9coJDUOpDxf1jbE6-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="外界荷载" vertex="1">
           <mxGeometry height="60" width="120" x="130" y="70" as="geometry" />
         </mxCell>
-        <mxCell id="bISS9coJDUOpDxf1jbE6-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Text" vertex="1">
-          <mxGeometry height="30" width="60" x="360" y="450" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
