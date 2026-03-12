@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="29.6.1">
   <diagram name="第 1 页" id="Xa_ITgR-kxJmA-0VHcEd">
-    <mxGraphModel dx="927" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1268" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,58 +58,58 @@
         <mxCell id="bISS9coJDUOpDxf1jbE6-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="控制系统" vertex="1">
           <mxGeometry height="60" width="120" x="810" y="540" as="geometry" />
         </mxCell>
-        <mxCell id="WFMHiofCofMUBj68zWmD-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="湍流风生成" vertex="1">
-          <mxGeometry height="60" width="120" x="160" y="1080" as="geometry" />
+        <mxCell id="WFMHiofCofMUBj68zWmD-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="turbulent wind" vertex="1">
+          <mxGeometry height="60" width="120" x="160" y="1070" as="geometry" />
         </mxCell>
         <mxCell id="WFMHiofCofMUBj68zWmD-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Internal damage of blades" vertex="1">
-          <mxGeometry height="60" width="120" x="170" y="1320" as="geometry" />
+          <mxGeometry height="60" width="120" x="170" y="1380" as="geometry" />
         </mxCell>
-        <mxCell id="WFMHiofCofMUBj68zWmD-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="湍流等级" vertex="1">
+        <mxCell id="WFMHiofCofMUBj68zWmD-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value=" turbulence categories" vertex="1">
           <mxGeometry height="60" width="120" x="310" y="1040" as="geometry" />
         </mxCell>
-        <mxCell id="WFMHiofCofMUBj68zWmD-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="风场分辨率" vertex="1">
+        <mxCell id="WFMHiofCofMUBj68zWmD-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="resolution" vertex="1">
           <mxGeometry height="60" width="120" x="310" y="1110" as="geometry" />
         </mxCell>
         <mxCell id="WFMHiofCofMUBj68zWmD-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="stiffness degradation" vertex="1">
           <mxGeometry height="60" width="120" x="320" y="1380" as="geometry" />
         </mxCell>
         <mxCell id="WFMHiofCofMUBj68zWmD-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GEBT" vertex="1">
-          <mxGeometry height="60" width="120" x="320" y="1300" as="geometry" />
+          <mxGeometry height="60" width="270" x="170" y="1300" as="geometry" />
         </mxCell>
         <mxCell id="WFMHiofCofMUBj68zWmD-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Structure" vertex="1">
-          <mxGeometry height="60" width="120" x="540" y="1335" as="geometry" />
+          <mxGeometry height="60" width="120" x="520" y="1330" as="geometry" />
         </mxCell>
         <mxCell id="WFMHiofCofMUBj68zWmD-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Loads" vertex="1">
-          <mxGeometry height="60" width="120" x="540" y="1100" as="geometry" />
+          <mxGeometry height="60" width="120" x="530" y="1030" as="geometry" />
         </mxCell>
         <mxCell id="WFMHiofCofMUBj68zWmD-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="OpenFAST solver" vertex="1">
-          <mxGeometry height="60" width="120" x="860" y="1080" as="geometry" />
+          <mxGeometry height="60" width="120" x="870" y="960" as="geometry" />
         </mxCell>
         <mxCell id="WFMHiofCofMUBj68zWmD-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Preprocessing" vertex="1">
-          <mxGeometry height="60" width="120" x="480" y="930" as="geometry" />
+          <mxGeometry height="60" width="120" x="670" y="950" as="geometry" />
         </mxCell>
         <mxCell id="WFMHiofCofMUBj68zWmD-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Postprocessing" vertex="1">
           <mxGeometry height="60" width="120" x="1230" y="950" as="geometry" />
         </mxCell>
-        <mxCell id="WFMHiofCofMUBj68zWmD-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="叶尖挥舞" vertex="1">
+        <mxCell id="WFMHiofCofMUBj68zWmD-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Blade Tip Flapwise" vertex="1">
           <mxGeometry height="60" width="120" x="1230" y="1050" as="geometry" />
         </mxCell>
-        <mxCell id="WFMHiofCofMUBj68zWmD-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="塔顶侧向偏移" vertex="1">
+        <mxCell id="WFMHiofCofMUBj68zWmD-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Tower top side-to-side " vertex="1">
           <mxGeometry height="60" width="120" x="1230" y="1170" as="geometry" />
         </mxCell>
         <mxCell id="WFMHiofCofMUBj68zWmD-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="BEM" vertex="1">
-          <mxGeometry height="60" width="120" x="180" y="1180" as="geometry" />
+          <mxGeometry height="60" width="270" x="160" y="960" as="geometry" />
         </mxCell>
-        <mxCell id="WFMHiofCofMUBj68zWmD-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1;fontSize=24;" value="ElastoDyn" vertex="1">
-          <mxGeometry height="60" width="120" x="860" y="1270" as="geometry" />
+        <mxCell id="WFMHiofCofMUBj68zWmD-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ElastoDyn" vertex="1">
+          <mxGeometry height="60" width="120" x="870" y="1210" as="geometry" />
         </mxCell>
-        <mxCell id="WFMHiofCofMUBj68zWmD-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1;fontSize=24;" value="AeroDyn" vertex="1">
-          <mxGeometry height="60" width="120" x="860" y="1190" as="geometry" />
+        <mxCell id="WFMHiofCofMUBj68zWmD-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="AeroDyn" vertex="1">
+          <mxGeometry height="60" width="120" x="870" y="1130" as="geometry" />
         </mxCell>
-        <mxCell id="WFMHiofCofMUBj68zWmD-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1;fontSize=24;" value="ServoDyn" vertex="1">
-          <mxGeometry height="60" width="120" x="860" y="1350" as="geometry" />
+        <mxCell id="WFMHiofCofMUBj68zWmD-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ServoDyn" vertex="1">
+          <mxGeometry height="60" width="120" x="870" y="1290" as="geometry" />
         </mxCell>
-        <mxCell id="WFMHiofCofMUBj68zWmD-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=24;" value="···" vertex="1">
+        <mxCell id="WFMHiofCofMUBj68zWmD-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="···" vertex="1">
           <mxGeometry height="30" width="60" x="890" y="1420" as="geometry" />
         </mxCell>
       </root>
