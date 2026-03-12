@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="29.6.1">
   <diagram name="第 1 页" id="Xa_ITgR-kxJmA-0VHcEd">
-    <mxGraphModel dx="1112" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="927" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -61,8 +61,8 @@
         <mxCell id="WFMHiofCofMUBj68zWmD-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="湍流风生成" vertex="1">
           <mxGeometry height="60" width="120" x="160" y="1080" as="geometry" />
         </mxCell>
-        <mxCell id="WFMHiofCofMUBj68zWmD-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="叶片内部损伤" vertex="1">
-          <mxGeometry height="60" width="120" x="140" y="1320" as="geometry" />
+        <mxCell id="WFMHiofCofMUBj68zWmD-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Internal damage of blades" vertex="1">
+          <mxGeometry height="60" width="120" x="170" y="1320" as="geometry" />
         </mxCell>
         <mxCell id="WFMHiofCofMUBj68zWmD-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="湍流等级" vertex="1">
           <mxGeometry height="60" width="120" x="310" y="1040" as="geometry" />
@@ -70,25 +70,25 @@
         <mxCell id="WFMHiofCofMUBj68zWmD-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="风场分辨率" vertex="1">
           <mxGeometry height="60" width="120" x="310" y="1110" as="geometry" />
         </mxCell>
-        <mxCell id="WFMHiofCofMUBj68zWmD-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="刚度衰减" vertex="1">
+        <mxCell id="WFMHiofCofMUBj68zWmD-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="stiffness degradation" vertex="1">
           <mxGeometry height="60" width="120" x="320" y="1380" as="geometry" />
         </mxCell>
-        <mxCell id="WFMHiofCofMUBj68zWmD-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="几何精确梁理论" vertex="1">
+        <mxCell id="WFMHiofCofMUBj68zWmD-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GEBT" vertex="1">
           <mxGeometry height="60" width="120" x="320" y="1300" as="geometry" />
         </mxCell>
-        <mxCell id="WFMHiofCofMUBj68zWmD-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="结构" vertex="1">
+        <mxCell id="WFMHiofCofMUBj68zWmD-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Structure" vertex="1">
           <mxGeometry height="60" width="120" x="540" y="1335" as="geometry" />
         </mxCell>
-        <mxCell id="WFMHiofCofMUBj68zWmD-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="荷载" vertex="1">
+        <mxCell id="WFMHiofCofMUBj68zWmD-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Loads" vertex="1">
           <mxGeometry height="60" width="120" x="540" y="1100" as="geometry" />
         </mxCell>
-        <mxCell id="WFMHiofCofMUBj68zWmD-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="OpenFAST" vertex="1">
+        <mxCell id="WFMHiofCofMUBj68zWmD-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="OpenFAST solver" vertex="1">
           <mxGeometry height="60" width="120" x="860" y="1080" as="geometry" />
         </mxCell>
-        <mxCell id="WFMHiofCofMUBj68zWmD-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="前处理" vertex="1">
-          <mxGeometry height="60" width="120" x="360" y="920" as="geometry" />
+        <mxCell id="WFMHiofCofMUBj68zWmD-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Preprocessing" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="930" as="geometry" />
         </mxCell>
-        <mxCell id="WFMHiofCofMUBj68zWmD-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="后处理" vertex="1">
+        <mxCell id="WFMHiofCofMUBj68zWmD-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Postprocessing" vertex="1">
           <mxGeometry height="60" width="120" x="1230" y="950" as="geometry" />
         </mxCell>
         <mxCell id="WFMHiofCofMUBj68zWmD-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="叶尖挥舞" vertex="1">
@@ -97,20 +97,20 @@
         <mxCell id="WFMHiofCofMUBj68zWmD-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="塔顶侧向偏移" vertex="1">
           <mxGeometry height="60" width="120" x="1230" y="1170" as="geometry" />
         </mxCell>
-        <mxCell id="WFMHiofCofMUBj68zWmD-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="叶素-动量理论" vertex="1">
+        <mxCell id="WFMHiofCofMUBj68zWmD-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="BEM" vertex="1">
           <mxGeometry height="60" width="120" x="180" y="1180" as="geometry" />
         </mxCell>
-        <mxCell id="WFMHiofCofMUBj68zWmD-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="仿真求解" vertex="1">
-          <mxGeometry height="60" width="120" x="850" y="980" as="geometry" />
-        </mxCell>
-        <mxCell id="WFMHiofCofMUBj68zWmD-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;a class=&quot;reference internal&quot; href=&quot;https://openfast.readthedocs.io/en/main/source/user/elastodyn/index.html&quot; style=&quot;box-sizing: border-box; color: rgb(41, 128, 185); text-decoration-line: none; cursor: pointer; margin-top: 0px; margin-bottom: 12px; font-family: Lato, proxima-nova, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(252, 252, 252);&quot;&gt;ElastoDyn&lt;/a&gt;" vertex="1">
+        <mxCell id="WFMHiofCofMUBj68zWmD-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1;fontSize=24;" value="ElastoDyn" vertex="1">
           <mxGeometry height="60" width="120" x="860" y="1270" as="geometry" />
         </mxCell>
-        <mxCell id="WFMHiofCofMUBj68zWmD-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;a class=&quot;reference internal&quot; href=&quot;https://openfast.readthedocs.io/en/main/source/user/aerodyn/index.html&quot; style=&quot;box-sizing: border-box; color: rgb(41, 128, 185); text-decoration-line: none; cursor: pointer; margin-top: 0px; margin-bottom: 12px; font-family: Lato, proxima-nova, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(252, 252, 252);&quot;&gt;AeroDyn&lt;/a&gt;" vertex="1">
+        <mxCell id="WFMHiofCofMUBj68zWmD-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1;fontSize=24;" value="AeroDyn" vertex="1">
           <mxGeometry height="60" width="120" x="860" y="1190" as="geometry" />
         </mxCell>
-        <mxCell id="WFMHiofCofMUBj68zWmD-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;h1 style=&quot;margin: 0px; padding: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 16px; line-height: 26px; font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Lantinghei SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, arial, 宋体, sans-serif, tahoma; position: relative; word-break: break-all; color: rgb(51, 51, 51); text-align: start;&quot;&gt;&lt;span class=&quot;ask-title&quot; style=&quot;display: inline; font-size: 24px; font-weight: 400; line-height: 34px; overflow: hidden; vertical-align: middle;&quot;&gt;ServoDyn&lt;/span&gt;&lt;/h1&gt;" vertex="1">
+        <mxCell id="WFMHiofCofMUBj68zWmD-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1;fontSize=24;" value="ServoDyn" vertex="1">
           <mxGeometry height="60" width="120" x="860" y="1350" as="geometry" />
+        </mxCell>
+        <mxCell id="WFMHiofCofMUBj68zWmD-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=24;" value="···" vertex="1">
+          <mxGeometry height="30" width="60" x="890" y="1420" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
